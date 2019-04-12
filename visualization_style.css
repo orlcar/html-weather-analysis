@@ -1,0 +1,42 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575px) {  
+   	
+	.bg-green {
+		background-color: green !important;
+	}
+   
+	h4 {
+		font-size: 10pt;
+	}
+}
+ 
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767px) { 
+	
+	.bg-green {
+		background-color: green !important;
+	}
+
+	h4 {
+		font-size: 12pt;
+	}
+}
+ 
+/* Medium devices (tablets, less than 992px). The navbar toggle appears at this breakpoint */
+@media (max-width: 991px) { 
+
+	.bg-green {
+		background-color: green !important;
+	}
+
+}
+ 
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199px) {  
+    
+}
+
+/* Universal styles */
+h4 {
+	text-align: center;
+}
