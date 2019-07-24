@@ -3,7 +3,7 @@ as you get closer to the equator. Weather data was pulled from the OpenWeatherMa
 Matplotlib was used to plot various aspects of the weather vs. latitude. Factors that were investigated in this analysis included: temperature, cloudliness, 
 wind speed, and humidity. The website also provides explanations and descriptions of any trends and correlations witnessed.
 
-## Weather Analyis Website
+## Weather Analysis Website
 https://orlcar.github.io/html-weather-analysis/
 
 ### Summary Webpage
